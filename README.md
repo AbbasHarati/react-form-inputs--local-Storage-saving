@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+How to store array of objects on localstorage by using react form and react-bootstrap
 
 ## Available Scripts
 
